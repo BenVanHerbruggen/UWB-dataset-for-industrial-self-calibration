@@ -13,5 +13,6 @@ I'm happy to answer any questions about this dataset at ben.vanherbruggen@ugent.
 [2] B. V. Herbruggen, S. Luchie, J. Fontaine and E. De Poorter, "Multihop Self-Calibration Algorithm for Ultra-Wideband (UWB) Anchor Node Positioning," in IEEE Journal of Indoor and Seamless Positioning and Navigation, vol. 1, pp. 1-11, 2023, doi: 10.1109/JISPIN.2023.3276826.
 
 
+## Structure of the datasets
 
-
+Will be added soon
